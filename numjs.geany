@@ -1,0 +1,22 @@
+
+[indentation]
+indent_width=2
+indent_type=0
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=3
+
+[project]
+name=numjs
+base_path=/home/acl/Projects/numjs/
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=85
+
+[files]
+current_page=2
+FILE_NAME_0=9810;coffee;0;16;0;1;1;/home/acl/Projects/number-types-js/src/int.coffee;0;2
+FILE_NAME_1=6071;coffee;0;16;0;1;1;/home/acl/Projects/number-types-js/test/int.coffee;0;2
+FILE_NAME_2=74;None;0;16;0;1;1;/home/acl/Projects/number-types-js/test/mocha.opts;0;2

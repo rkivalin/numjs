@@ -1,0 +1,19 @@
+{
+  "author": "Roman Kivalin <roman@kivalin.me> (https://kivalin.me)",
+  "name": "numjs",
+  "description": "Javascript library for dealing with large numbers.",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "should": ">= 0.6",
+    "mocha": "1.x",
+    "coffee-script": "1.x"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
